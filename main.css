@@ -1,0 +1,36 @@
+nav{
+    margin:10px;
+}
+body{
+    background-color: lightgrey;
+}
+nav ul{
+    list-style: none;
+    text-align: center;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    padding: 10px 0px;
+}
+nav ul li{
+    display: inline;
+    text-transform: capitalize;
+    padding: 0px 10px;
+    letter-spacing: 5px;
+}
+#main{
+    border-bottom: 1px solid blue;
+    text-align: center;
+}
+#main li{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer{
+    clear:both;
+    width:100%;
+    background-color: gray;
+    height: 30px;
+    text-align: center;
+}

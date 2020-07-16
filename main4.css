@@ -1,0 +1,13 @@
+nav ul{
+    list-style: none;
+    text-align: center;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid red;
+    padding: 10px 0px;
+}
+nav ul li{
+    display: inline;
+}
+body{
+    background-color: lightgrey;
+}
